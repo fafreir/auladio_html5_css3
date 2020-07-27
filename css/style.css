@@ -1,0 +1,78 @@
+.navbar{
+    background-color: #2BF4E6;
+}
+
+.margin{
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.serviços{
+    background-color: #8181f7;
+    color: white;
+    font: 20px Arial;
+}
+
+.cliente{
+    background-color: greenyellow;
+    padding-bottom: 30px;
+}
+
+.parceiro{
+    background-color: #8181f7;
+    color: white;
+    font: 20px Arial;
+    margin-top: 10px;
+    margin-bottom: 40;
+
+}
+
+.time{
+    background-color: greenyellow;
+    margin-top: 10px;
+    padding-bottom: 30px;
+}
+
+.contato{
+    background-color: rgb(228, 244, 247);
+    margin-top: 10px;
+    padding-bottom: 10;
+}
+
+.rodape{
+    background-color: rgb(65, 68, 61);
+    color: white;
+    
+}
+
+body{
+    background: rgb(182, 189, 190);
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 50px;
+}
+
+h1{
+    color:rgb(34, 13, 73);
+    font-family: Arial;
+}
+
+h2{
+    font-family: Arial;
+    margin-top: 30px;
+}
+
+footer{
+    margin-bottom: 20px;
+}
+
+p{
+    font-family: Arial;
+}
+
+.img_pdr{
+    margin-bottom: 20px;
+}
